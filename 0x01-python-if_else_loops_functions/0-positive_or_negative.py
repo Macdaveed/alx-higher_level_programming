@@ -6,6 +6,6 @@ if number > 0:
     number = 0
     print(new_number, "is positive")
 elif number < 0:
-    print(new_number, "is zero")
+    print(new_number, "is negative")
 else:
-    print(new_number,"is negative")
+    print(new_number, "is zero")
